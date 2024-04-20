@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hej! i'm Lucas Janvier</h1>
+<h3 align="center">A student Software Developer from The Netherland</h3>
 
-<!--
-**LucasJanvier/LucasJanvier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+<p>
+  I'm a 17 year old student that lives in The Netherlands. The things i learned in the past time:</p>
+<p>
+HTML, CSS, JavaScript.
+Laravel Framework and Visual Studio Code. <br>
+Blender, Adode: Photoshop/Illustrator/Indesign/Animation/Premiere Pro 
+</p>
+<br>
+<h3>Languages</h3>
+<p>Dutch, English and Swedish (Learning)</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h3>Portfolio's</h3>
+<p> Private Portfolio <a href="#">Soon!</a></p>
+<p> School Portfolio: <a href="https://lucas-janvier.newdeveloper.nl/">lucas-janvier.newdeveloper.nl</p>
+
+<br>
+
+<h3>Contact/Socials</h3>
+<a>LinkedIn</a> <br>
+<a>X (Twitter)</a> <br>
+<a>Instragram</a> <br>
+<a>Discord</a>
